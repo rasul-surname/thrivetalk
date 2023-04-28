@@ -23,6 +23,7 @@
 	letter-spacing: 0.06em;
 	color: #22356f;
 	margin-bottom: 225px;
+	cursor: pointer;
 }
 .help__text {
 	font-size: 36px;
@@ -38,6 +39,7 @@
 	letter-spacing: 0.1em;
 	color: #fab63e;
 	position: relative;
+	cursor: pointer;
 }
 .help__note:after {
 	content: "";

@@ -45,6 +45,7 @@
 	letter-spacing: 0.1em;
 	color: #62d0df;
 	position: relative;
+	cursor: pointer;
 }
 .contacts__note:after {
 	content: "";

@@ -148,21 +148,27 @@
 }
 .column-1 {
 	background-color: #22356f;
+	cursor: pointer;
 }
 .column-2 {
 	background-color: #5ea1ff;
+	cursor: pointer;
 }
 .column-3 {
 	background-color: #0052c1;
+	cursor: pointer;
 }
 .column-4 {
 	background-color: #62d0df;
+	cursor: pointer;
 }
 .column-5 {
 	background-color: #dee1ff;
+	cursor: pointer;
 }
 .column-6 {
 	background-color: #8f00ff;
+	cursor: pointer;
 }
 .about__list {
 	display: flex;
@@ -179,6 +185,7 @@
 	-o-transition: all 0.3s ease 0s;
 	transition: all 0.3s ease 0s;
 	border: 1px solid #fff;
+	cursor: pointer;
 }
 .about__item:hover {
 	background-color: #ddd;

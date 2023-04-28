@@ -57,6 +57,7 @@
 	font-size: 14px;
 	line-height: 16px;
 	color: #ffffff;
+	cursor: pointer;
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;

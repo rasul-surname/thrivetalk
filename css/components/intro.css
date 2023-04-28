@@ -30,6 +30,7 @@
 	background-color: #f9b640;
 	padding: 10px 30px;
 	margin-right: 40px;
+	cursor: pointer;
 }
 .intro__buttons {
 	margin-bottom: 75px;
@@ -41,6 +42,7 @@
 	letter-spacing: 0.1em;
 	color: #f9b640;
 	padding: 10px 30px;
+	cursor: pointer;
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-o-transition: all 0.3s ease 0s;
